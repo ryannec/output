@@ -1,0 +1,5 @@
+<app-create-onomatopia
+  (sendOnomatopiaToParent)="onReceiveNewOnomatopia($event)"
+></app-create-onomatopia>
+<h2>Liste des Onomatopées</h2>
+<p *ngFor="let element of onomatopoeiaList">{{ element }}</p>
