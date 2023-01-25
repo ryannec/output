@@ -1,3 +1,4 @@
+![Capture d'écran_20230125_105313](https://user-images.githubusercontent.com/102947807/214532981-f1c077d1-e413-4dcb-8d1d-a5166de29e53.png)
 # Output
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
